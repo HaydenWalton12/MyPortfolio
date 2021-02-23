@@ -107,12 +107,12 @@
 		}
 
 	body {
-		background: #fff;
+		background: #000000;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #000000;
 
 		// Stops initial animations until page loads.
 			&.is-preload {
@@ -193,7 +193,7 @@
 		outline: 0;
 
 		&:hover {
-			color: #E27689;
+			color: #000000;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 	}
@@ -420,7 +420,7 @@
 
 			&:focus {
 				box-shadow: 0 0 2px 1px #8ebebc;
-				background: #fff;
+				background: #000000;
 			}
 		}
 
@@ -465,7 +465,7 @@
 		tbody {
 			tr {
 				&:nth-child(2n+2) {
-					background: #f4f4f4;
+					background:#000000;
 				}
 			}
 		}
@@ -478,7 +478,7 @@
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			background: #222729 url('images/overlay.png');
+			background: #9ab1b5 url('images/overlay.png');
 		}
 
 		thead {
