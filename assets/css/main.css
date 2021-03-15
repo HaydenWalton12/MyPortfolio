@@ -82,7 +82,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #d6d6d680;
+		background: #d6d6d6;
 		font-family: 'Ubuntu', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
@@ -1951,7 +1951,7 @@ input, select, textarea {
 		color: #d6d6d6 !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #1E1F1C;
+		background-color: #96c492	;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -2087,8 +2087,8 @@ input, select, textarea {
 		}
 
 			#header .icons a {
-				/* color: #41484c; */
-				color: #d6d6d680;
+
+				color: #96c492;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2182,7 +2182,7 @@ input, select, textarea {
 	#footer {
 		margin-left: 375px;
 		text-align: center;
-		background-color: #262721;
+		background-color: #96c492;
 		padding: 0 0 0 0;
 		box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 		font-size: 0.8em;
@@ -2223,7 +2223,7 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
+				color: #96c492;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -2252,23 +2252,23 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #272822;
-				background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), #272822 ),url("../../images/banner.png"),url("images/overlay.png");
+				background-color: #96c492
+				background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), #4c5037 ),url(../../images/banner.png),url(images/overlay.png);
 			}
 
 			#main > section.two {
-				/* background-color: #f5fafa; */
-				background-color: #272822;
+
+				background-color: #9bcd90;
 			}
 
 			#main > section.three {
-				/* background-color: #ecf1f1; */
-				background-color: #34352F;
+
+				background-color: #9bcd90;
 			}
 
 			#main > section.four {
-				/* background-color: #e8edec; */
-				background-color: #272822;
+
+				background-color: #9bcd90;
 			}
 
 /* Wide */
