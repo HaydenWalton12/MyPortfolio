@@ -2108,7 +2108,7 @@ input, select, textarea {
 
 		#logo h1 {
 			position: relative;
-			color: #EA1144;
+			color: #ffffff;
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
@@ -2252,8 +2252,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #96c492
-				background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), #4c5037 ),url(../../images/banner.png),url(images/overlay.png);
+				background-color: #9bcd90
 			}
 
 			#main > section.two {
